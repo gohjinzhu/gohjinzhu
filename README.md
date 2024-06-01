@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jin Zhu</h1>
-<h3 align="center">A passionate frontend developer from Singapore</h3>
+<h3 align="center">A passionate software engineer living in Singapore.</h3>
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
-- 👨‍💻 All of my projects are available at [portfolio](portfolio)
-
 - 📫 How to reach me **gohjinzhu@hotmail.com**
-
-- 📄 Know about my experiences [resume](resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
