@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jin Zhu</h1>
-<h3 align="center">A passionate software engineer living in Singapore.</h3>
-
-- 👯 I’m looking to collaborate on **interesting projects**
+<h3 align="center">A passionate software engineer from Singapore</h3>
 
 - 📫 How to reach me **gohjinzhu@hotmail.com**
 
